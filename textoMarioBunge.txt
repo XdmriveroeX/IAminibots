@@ -1,0 +1,305 @@
+1. Introducción
+Mientras los animales inferiores sólo están en el mundo, el hombre trata de entenderlo; y
+sobre la base de su inteligencia imperfecta pero perfectible, del mundo, el hombre intenta
+enseñorearse de él para hacerlo más confortable. En este proceso, construye un mundo
+artificial: ese creciente cuerpo de ideas llamado "ciencia", que puede caracterizarse como
+conocimiento racional, sistemático, exacto, verificable y por consiguiente falible. Por medio
+de la investigación científica, el hombre ha alcanzado una reconstrucción conceptual del
+mundo que es cada vez más amplia, profunda y exacta.
+Un mundo le es dado al hombre; su gloria no es soportar o despreciar este mundo, sino
+enriquecerlo construyendo otros universos. Amasa y remoldea la naturaleza sometiéndola
+a sus propias necesidades animales y espirituales, así como a sus sueños: crea así el mundo
+de los artefactos y el mundo de la cultura. La ciencia como actividad —como investigación—
+pertenece a la vida social; en cuanto se la aplica al mejoramiento de nuestro medio natural y
+artificial, a la invención y manufactura de bienes materiales y culturales, la ciencia se convierte
+en tecnología. Sin embargo, la ciencia se nos aparece como la más deslumbrante y asombrosa
+de las estrellas de la cultura cuando la consideramos como un bien en sí mismo, esto es como
+una actividad productora de nuevas ideas (investigación científica). Tratemos de caracterizar
+el conocimiento y la investigación científicos tal como se los conoce en la actualidad.
+2. Ciencia formal y ciencia fáctica
+No toda la investigación científica procura el conocimiento objetivo. Así, la lógica y la
+matemática —esto es, los diversos sistemas de lógica formal y los diferentes capítulos de la
+matemática pura— son racionales, sistemáticos y verificables, pero no son objetivos; no nos
+dan informaciones acerca de la realidad: simplemente, no se ocupan de los hechos. La lógica
+y la matemática tratan de entes ideales; estos entes, tanto los abstractos como los
+interpretados, sólo existen en la mente humana. A los lógicos y matemáticos no se les da
+objetos de estudio: ellos construyen sus propios objetos. Es verdad que a menudo lo hacen
+por abstracción de objetos reales (naturales y sociales); más aún, el trabajo del lógico o del
+matemático satisface a menudo las necesidades del naturalista, del sociólogo o del tecnólogo,
+y es por esto que la sociedad los tolera y, ahora, hasta los estimula. Pero la materia prima que
+emplean los lógicos y los matemáticos no es fáctica sino ideal.
+Por ejemplo, el concepto de número abstracto nació, sin duda, de la coordinación
+Mario Bunge La ciencia. Su método y su filosofía
+7
+(correspondencia biunívoca) de conjuntos de objetos materiales, tales como dedos, por una
+parte, y guijarros, por la otra; pero no por esto aquel concepto se reduce a esta operación
+manual, ni a los signos que se emplean para representarlo. Los números no existen fuera de
+nuestros cerebros, y aun allí dentro existen al nivel conceptual, y no al nivel fisiológico. Los
+objetos materiales son numerables siempre que sean discontinuos; pero no son números;
+tampoco son números puros (abstractos) sus cualidades o relaciones. En el mundo real
+encontramos 3 libros, en el mundo de la ficción construimos 3 platos voladores. ¿Pero quién
+vio jamás un 3, un simple 3?
+La lógica y la matemática, por ocuparse de inventar entes formales y de establecer relaciones
+entre ellos, se llaman a menudo ciencias formales, precisamente porque sus objetos no son
+cosas ni procesos, sino, para emplear el lenguaje pictórico, formas en las que se puede verter
+un surtido ilimitado de contenidos, tanto fácticos como empíricos. Esto es, podemos
+establecer correspondencias entre esas formas (u objetos formales), por una parte, y cosas
+y procesos pertenecientes a cualquier nivel de la realidad por la otra. Así es como la física,
+la química, la fisiología, la psicología, la economía, y las demás ciencias recurren a la
+matemática, empleándola como herramienta para realizar la más precisa reconstrucción de las
+complejas relaciones que se encuentran entre los hechos y entre los diversos aspectos de los
+hechos; dichas ciencias no identifican las formas ideales con los objetos concretos, sino que
+interpretan las primeras en términos de hechos y de experiencias (o, lo que es equivalente,
+formalizan enunciados fácticos).
+Lo mismo vale para la lógica formal: algunas de sus partes —en particular, pero no
+exclusivamente, la lógica proposicional bivalente— pueden hacerse corresponder a aquellas
+entidades psíquicas que llamamos pensamientos. Semejante aplicación de las ciencias de la
+forma pura a la inteligencia del mundo de los hechos, se efectúa asignando diferentes
+interpretaciones a los objetos formales. Estas interpretaciones son, dentro de ciertos límites,
+arbitrarias; vale decir, se justifican por el éxito, la conveniencia o la ignorancia. En otras
+palabras el significado fáctico o empírico que se les asigna a los objetos formales no es una
+propiedad intrínseca de los mismos. De esta manera, las ciencias formales jamás entran en
+conflicto con la realidad. Esto explica la paradoja de que, siendo formales, se "aplican" a la
+realidad: en rigor no se aplican, sino que se emplean en la vida cotidiana y en las ciencias
+fácticas a condición de que se les superpongan reglas de correspondencia adecuada. En
+suma, la lógica y la matemática establecen contacto con la realidad a través del puente del
+lenguaje, tanto el ordinario como el científico.
+Tenemos así una primera gran división de las ciencias, en formales (o ideales) y fácticas (o
+materiales). Esta ramificación preliminar tiene en cuenta el objeto o tema de las respectivas
+disciplinas; también da cuenta de la diferencia de especie entre los enunciados que se
+proponen establecer las ciencias formales y las fácticas: mientras los enunciados formales
+consisten en relaciones entre signos, los enunciados de las ciencias fácticas se refieren, en
+su mayoría, a entes extracientíficos: a sucesos y procesos. Nuestra división también tiene en
+Mario Bunge La ciencia. Su método y su filosofía
+8
+cuenta el método por el cual se ponen a prueba los enunciados verificables: mientras las
+ciencias formales se contentan con la lógica para demostrar rigurosamente sus teoremas (los
+que, sin embargo, pudieron haber sido adivinados por inducción común o de otras maneras),
+las ciencias fácticas necesitan más que la lógica formal: para confirmar sus conjeturas
+necesitan de la observación y/o experimento. En otras palabras, las ciencias fácticas tienen
+que mirar las cosas, y, siempre que les sea posible, deben procurar cambiarlas
+deliberadamente para intentar descubrir en qué medida sus hipótesis se adecuan a los
+hechos.
+Cuando se demuestra un teorema lógico o matemático no se recurre a la experiencia: el
+conjunto de postulados, definiciones, reglas de formación de las expresiones dotadas de
+significado, y reglas de inferencia deductiva —en suma, la base de la teoría dada—, es
+necesaria y suficiente para ese propósito. La demostración de los teoremas no es sino una
+deducción: es una operación confinada a la esfera teórica, aun cuando a veces los teoremas
+mismos (no sus demostraciones) sean sugeridos en alguna esfera extramatemática y aun
+cuando su prueba (pero no su primer descubrimiento) pueda realizarse con ayuda de
+calculadoras electrónicas. Por ejemplo, cualquier demostración rigurosa del teorema de
+Pitágoras prescinde de las mediciones, y emplea figuras sólo como ayuda psicológica al
+proceso deductivo: que el teorema de Pitágoras haya sido el resultado de un largo proceso
+de inducción conectado a operaciones prácticas de mediciones de tierras, es objeto de la
+historia, la sociología y la psicología del conocimiento.
+La matemática y la lógica son, en suma, ciencias deductivas. El proceso constructivo, en que
+la experiencia desempeña un gran papel de sugerencias, se limita a la formación de los puntos
+de partida (axiomas). En matemática la verdad consiste, por esto, en la coherencia del
+enunciado dado con un sistema de ideas admitido previamente: por esto, la verdad
+matemática no es absoluta sino relativa a ese sistema, en el sentido de que una proposición
+que es válida en una teoría puede dejar de ser lógicamente verdadera en otra teoría. (Por
+ejemplo, en el sistema de aritmética que empleamos para contar las horas del día, vale la
+proposición de 24 + 1 = 1.) Más aún las teorías matemáticas abstractas, esto es, que contienen
+términos no interpretados (signos a los que no se atribuye un significado fijo, y que por lo
+tanto pueden adquirir distintos significados) pueden desarrollarse sin poner atención al
+problema de la verdad.
+Considérese el siguiente axioma de cierta teoría abstracta (no interpretada): "Existe por lo
+menos un x tal que es F". Se puede dar un número ilimitado de interpretaciones (modelos) de
+este axioma, dándose a x y F otros tantos significados. Si decimos que S designa punto,
+obtenemos un modelo geométrico dado: si adoptamos la convención de que L designa
+número, obtenemos un cierto modelo aritmético, y así sucesivamente. En cuanto "llenamos"
+la forma vacía con un contenido específico (pero todavía matemático), obtenemos un sistema
+de entes lógicos que tienen el privilegio de ser verdaderos o falsos dentro del sistema dado
+de proposiciones: a partir de ahí tenemos que habérnoslas con el problema de la verdad
+Mario Bunge La ciencia. Su método y su filosofía
+9
+matemática. Aún así tan sólo las conclusiones (teoremas) tendrán que ser verdaderas: los
+axiomas mismos pueden elegirse a voluntad. La batalla se habrá ganado si se respeta la
+coherencia lógica esto es, si no se violan las leyes del sistema de lógica que se ha convenido
+en usar.
+En las ciencias fácticas, la situación es enteramente diferente. En primer lugar, ellas no
+emplean símbolos vacíos (variables lógicas) sino tan sólo símbolos interpretados; por ejemplo
+no involucran expresiones tales como 'x es F', que no son verdaderas ni falsas. En segundo
+lugar, la racionalidad —esto es, la coherencia con un sistema de ideas aceptado
+previamente— es necesaria pero no suficiente para los enunciados fácticos; en particular la
+sumisión a algún sistema de lógica es necesaria pero no es una garantía de que se obtenga
+la verdad. Además de la racionalidad, exigimos de los enunciados de las ciencias fácticas que
+sean verificables en la experiencia, sea indirectamente (en el caso de las hipótesis generales),
+sea directamente (en el caso de las consecuencias singulares de las hipótesis). Únicamente
+después que haya pasado las pruebas de la verificación empírica podrá considerarse que un
+enunciado es adecuado a su objeto, o sea que es verdadero, y aún así hasta nueva orden. Por
+eso es que el conocimiento fáctico verificable se llama a menudo ciencia empírica.
+En resumidas cuentas, la coherencia es necesaria pero no suficiente en el campo de las
+ciencias de hechos: para anunciar que un enunciado es (probablemente) verdadero se
+requieren datos empíricos (proposiciones acerca de observaciones o experimentos). En última
+instancia, sólo la experiencia puede decirnos si una hipótesis relativa a cierto grupo de
+hechos materiales es adecuada o no. El mejor fundamento de esta regla metodológica que
+acabamos de enunciar es que la experiencia le ha enseñado a la humanidad que el
+conocimiento de hecho no es convencional, que si se busca la comprensión y el control de
+los hechos debe partirse de la experiencia. Pero la experiencia no garantizará que la hipótesis
+en cuestión sea la única verdadera: sólo nos dirá que es probablemente adecuada, sin excluir
+por ello la posibilidad de que un estudio ulterior pueda dar mejores aproximaciones en la
+reconstrucción conceptual del trozo de realidad escogido. El conocimiento fáctico, aunque
+racional, es esencialmente probable: dicho de otro modo: la inferencia científica es una red de
+inferencias deductivas (demostrativas) y probables (inconcluyentes).
+Las ciencias formales demuestran o prueban: las ciencias fácticas verifican (confirman o
+disconfirman) hipótesis que en su mayoría son provisionales. La demostración es completa
+y final; la verificación es incompleta y por eso temporaria. La naturaleza misma del método
+científico impide la confirmación final de las hipótesis fácticas. En efecto los científicos no
+sólo procuran acumular elementos de prueba de sus suposiciones multiplicando el número
+de casos en que ellas se cumplen; también tratan de obtener casos desfavorables a sus
+hipótesis, fundándose en el principio lógico de que una sola conclusión que no concuerde
+con los hechos tiene más peso que mil confirmaciones. Por ello, mientras las teorías formales
+pueden ser llevadas a un estado de perfección (o estancamiento), los sistemas relativos a los
+hechos son esencialmente defectuosos: cumplen, pues, la condición necesaria para ser
+Mario Bunge La ciencia. Su método y su filosofía
+10
+perfectibles. En consecuencia si el estudio de las ciencias formales vigoriza el hábito del rigor,
+el estudio de las ciencias fáctiles puede inducirnos a considerar el mundo como inagotable,
+y al hombre como una empresa inconclusa e interminable.
+Las diferencias de método, tipo de enunciados y referentes que separan las ciencias fácticas
+de las formales, impiden que se las examine conjuntamente más allá de cierto punto. Por ser
+una ficción seria, rigurosa y a menudo útil, pero ficción al cabo, la ciencia formal requiere un
+tratamiento especial. En lo que sigue nos concentraremos en la ciencia fáctica. Daremos un
+vistazo a las características peculiares de las ciencias de la naturaleza y de la cultura en su
+estado actual, con la esperanza de que la ciencia futura enriquezca sus cualidades o, al menos,
+de que las civilizaciones por venir hagan mejor uso del conocimiento científico.
+Los rasgos esenciales del tipo de conocimiento que alcanzan las ciencias de la naturaleza y
+de la sociedad son la racionalidad y la objetividad. Por conocimiento racional se entiende:
+a) que está constituido por conceptos, juicios y raciocinios y no por sensaciones, imágenes,
+pautas de conducta, etc. Sin duda, el científico percibe, forma imágenes (por ejemplo, modelos
+visualizables) y hace operaciones; por tanto el punto de partida como el punto final de su
+trabajo son ideas;
+b) que esas ideas pueden combinarse de acuerdo con algún conjunto de reglas lógicas con
+el fin de producir nuevas ideas (inferencia deductiva). Estas no son enteramente nuevas
+desde un punto de vista estrictamente lógico, puesto que están implicadas por las premisas
+de la deducción; pero no gnoseológicamente nuevas en la medida en que expresan
+conocimientos de los que no se tenía conciencia antes de efectuarse la deducción;
+c) que esas ideas no se amontonan caóticamente o, simplemente, en forma cronológica, sino
+que se organizan en sistemas de ideas, esto es en conjuntos ordenados de proposiciones
+(teorías).
+Que el conocimiento científico de la realidad es objetivo, significa:
+a) que concuerda aproximadamente con su objeto; vale decir que busca alcanzar la verdad
+fáctica;
+b) que verifica la adaptación de las ideas a los hechos recurriendo a un comercio peculiar con
+los hechos (observación y experimento), intercambio que es controlable y hasta cierto punto
+reproducible.
+Ambos rasgos de la ciencia fáctica, la racionalidad y la objetividad, están íntimamente
+soldados. Así, por ejemplo, lo que usualmente se verifica por medio del experimento es alguna
+consecuencia —extraída por vía deductiva— de alguna hipótesis; otro ejemplo: el cálculo no
+sólo sigue a la observación sino que siempre es indispensable para planearla y registrarla. La
+racionalidad y objetividad del conocimiento científico pueden analizarse en un cúmulo de
+características a las que pasaremos revista en lo que sigue.
+3. Inventario de las principales características de la ciencia fáctica
+Mario Bunge La ciencia. Su método y su filosofía
+11
+1) El conocimiento científico es fáctico: parte de los hechos, los respeta hasta cierto punto,
+y siempre vuelve a ellos. La ciencia intenta describir los hechos tal como son,
+independientemente de su valor emocional o comercial: la ciencia no poetiza los hechos ni los
+vende, si bien sus hazañas son una fuente de poesía y de negocios. En todos los campos, la
+ciencia comienza estableciendo los hechos; esto requiere curiosidad impersonal, desconfianza
+por la opinión prevaleciente, y sensibilidad a la novedad.
+Los enunciados fácticos confirmados se llaman usualmente "datos empíricos"; se obtienen
+con ayuda de teorías (por esquemáticas que sean) y son a su vez la materia prima de la
+elaboración teórica. Una subclase de datos empíricos es de tipo cuantitativo; los datos
+numéricos y métricos se disponen a menudo en tablas, las más importantes de las cuales son
+las tablas de constantes (tales como las de los puntos de fusión de las diferentes sustancias).
+Pero la recolección de datos y su ulterior disposición en tablas no es la finalidad principal de
+la investigación: la información de esta clase debe incorporarse a teorías si ha de convertirse
+en una herramienta para la inteligencia y la aplicación. ¿De qué sirve conocer el peso
+específico del hierro si carecemos de fórmulas mediante las cuales podemos relacionarlos con
+otras cantidades?
+No siempre es posible, ni siquiera deseable, respetar enteramente los hechos cuando se los
+analiza, y no hay ciencia sin análisis, aun cuando el análisis no sea sino un medio para la
+reconstrucción final de los todos. El físico atómico perturba el átomo al que desea espiar; el
+biólogo modifica e incluso puede matar al ser vivo que analiza; el antropólogo empeñado en
+el estudio de campo de una comunidad provoca en ella ciertas modificaciones. Ninguno de
+ellos aprehende su objeto tal como es, sino tal como queda modificado por sus propias
+operaciones; sin embargo, en todos los casos tales cambios son objetivos, y se presume que
+pueden entenderse en términos de leyes: no son conjurados arbitrariamente por el
+experimentador. Más aún, en todos los casos el investigador intenta describir las
+características y el monto de la perturbación que produce en el acto del experimento; procura,
+en suma estimar la desviación o "error" producido por su intervención activa. Porque los
+científicos actúan haciendo tácitamente la suposición de que el mundo existiría aun en su
+ausencia, aunque desde luego, no exactamente de la misma manera.
+2) El conocimiento científico trasciende los hechos: descarta los hechos, produce nuevos
+hechos, y los explica. El sentido común parte de los hechos y se atiene a ellos: a menudo se
+imita al hecho aislado, sin ir muy lejos en el trabajo de correlacionarlo con otros o de
+explicarlo. En cambio, la investigación científica no se limita a los hechos observados: los
+científicos exprimen la realidad a fin de ir más allá de las apariencias; rechazan el grueso de
+los hechos percibidos, por ser un montón de accidentes, seleccionan los que consideran que
+son relevantes, controlan hechos y, en lo posible, los reproducen. Incluso producen cosas
+nuevas desde instrumentos hasta partículas elementales; obtienen nuevos compuestos
+químicos, nuevas variedades vegetales y animales, y al menos en principio, crean nuevas
+Mario Bunge La ciencia. Su método y su filosofía
+12
+pautas de conducta individual y social.
+Más aún, los científicos usualmente no aceptan nuevos hechos a menos que puedan
+certificar de alguna manera su autenticidad; y esto se hace, no tanto contrastándolos con
+otros hechos, cuanto mostrando que son compatibles con lo que se sabe. Los científicos
+descartan las imposturas y los trucos mágicos porque no encuadran en hipótesis muy
+generales y fidedignas, que han sido puestas a prueba en incontables ocasiones. Vale decir,
+los científicos no consideran su propia experiencia individual como un tribunal inapelable;
+se fundan, en cambio, en la experiencia colectiva y en la teoría.
+Hay más: el conocimiento científico racionaliza la experiencia en lugar de limitarse a
+describirla; la ciencia da cuenta de los hechos no inventariándolos sino explicándolos por
+medio de hipótesis (en particular, enunciados de leyes) y sistemas de hipótesis (teorías). Los
+científicos conjeturan lo que hay tras los hechos observados, y de continuo inventan
+conceptos (tales como los del átomo, campo, masa, energía, adaptación, integración,
+selección, clase social, o tendencia histórica) que carecen de correlato empírico, esto es, que
+no corresponden a preceptos, aun cuando presumiblemente se refieren a cosas, cualidades
+o relaciones existentes objetivamente. No percibimos los campos eléctricos o las clases
+sociales: inferimos su existencia a partir de hechos experimentables y tales conceptos son
+significativos tan sólo en ciertos contextos teóricos.
+Este trascender la experiencia inmediata, ese salto del nivel observacional al teórico, le permite
+a la ciencia mirar con desconfianza los enunciados sugeridos por meras coincidencias; le
+permite predecir la existencia real de las cosas y procesos ocultos a primera vista pero que
+instrumentos (materiales o conceptuales) más potentes pueden descubrir. Las discrepancias
+entre las previsiones teóricas y los hallazgos empíricos figuran entre los estímulos más fuertes
+para edificar teorías nuevas y diseñar nuevos experimentos. No son los hechos por sí mismos
+sino su elaboración teórica y la comparación de las consecuencias de las teorías con los
+datos observacionales, la principal fuente del descubrimiento de nuevos hechos.
+3) La ciencia es analítica: la investigación científica aborda problemas circunscriptos, uno a
+uno, y trata de descomponerlo todo en elementos (no necesariamente últimos o siquiera
+reales). La investigación científica no se planta cuestiones tales como "¿Cómo es el universo
+en su conjunto?", o "¿Cómo es posible el conocimiento?" Trata, en cambio, de entender toda
+situación total en términos de sus componentes; intenta descubrir los elementos que explican
+su integración.
+Los problemas de la ciencia son parciales y así son también, por consiguiente, sus
+soluciones; pero, más aún: al comienzo los problemas son estrechos o es preciso
+estrecharlos. Pero, a medida que la investigación avanza, su alcance se amplía. Los resultados
+de la ciencia son generales, tanto en el sentido de que se refieren a clases de objetos (por
+ejemplo, la lluvia), como en que están, o tienden a ser incorporados en síntesis conceptuales
+llamadas teorías. El análisis, tanto de los problemas como de las cosas, no es tanto un
+Mario Bunge La ciencia. Su método y su filosofía
+13
+objetivo como una herramienta para construir síntesis teóricas. La ciencia auténtica no es
+atomista ni totalista.
+La investigación comienza descomponiendo sus objetos a fin de descubrir el "mecanismo"
+interno responsable de los fenómenos observados. Pero el desmontaje del mecanismo no se
+detiene cuando se ha investigado la naturaleza de sus partes; el próximo paso es el examen
+de la interdependencia de las partes, y la etapa final es la tentativa de reconstruir el todo en
+términos de sus partes interconectadas. El análisis no acarrea el descuido de la totalidad; lejos
+de disolver la integración, el análisis es la única manera conocida de descubrir cómo emergen,
+subsisten y se desintegran los todos. La ciencia no ignora la síntesis: lo que sí rechaza es la
+pretensión irracionalista de que las síntesis pueden ser aprehendidas por una intuición
+especial, sin previo análisis.
+4) La investigación científica es especializada: una consecuencia del enfoque analítico de los
+problemas es la especialización. No obstante la unidad del método científico, su aplicación
+depende, en gran medida, del asunto; esto explica la multiplicidad de técnicas y la relativa
+independencia de los diversos sectores de la ciencia.
+Sin embargo, es menester no exagerar la diversidad de las ciencias al punto de borrar su
+unidad metodológica. El viejo dualismo materia-espíritu había sugerido la división de las
+ciencias en Naturwissenschaften, o ciencias de la naturaleza, y Geisteswissenschaften, o
+ciencias del espíritu. Pero estos géneros difieren en cuanto al asunto, a las técnicas y al grado
+de desarrollo, no así en lo que respecta al objetivo, método y alcance. El dualismo razónexperiencia había sugerido, a su vez, la división de las ciencias fácticas en racionales y
+empíricas. Menos sostenible aún es la dicotomía ciencias deductivas—ciencias inductivas,
+ya que toda empresa científica —sin excluir el dominio de las ciencias formales— es tan
+inductiva como deductiva, sin hablar de otros tipos de inferencia.
+La especialización no ha impedido la formación de campos interdisciplinarios tales como la
+biofísica, la bioquímica, la psicofisiología, la psicología social, la teoría de la información, la
+cibernética, o la investigación operacional. Con todo, la investigación tiende a estrechar la
+visión del científico individual; un único remedio ha resultado eficaz contra la unilateralidad
+profesional, y es una dosis de filosofía.
+
+
