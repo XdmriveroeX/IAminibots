@@ -1,0 +1,4 @@
+
+peras,4
+peras,4
+fresas,26
