@@ -1,3 +1,4 @@
 .env
 googlecrentials.json
 /.env
+.venv
